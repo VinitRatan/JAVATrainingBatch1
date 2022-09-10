@@ -12,6 +12,8 @@ public class AccessModifierTest {
 		System.out.println("n3 "+n3);
 		System.out.println("n4 "+n4);
 		
+		
+		
 	}
 	
 	
